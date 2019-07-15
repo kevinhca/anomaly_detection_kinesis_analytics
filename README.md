@@ -6,7 +6,7 @@
 
 # Steps 
 
-### 1. Create S3 Buckets for raw data and data with anomalies score.
+### 1. Create two S3 Buckets -  raw data and another one for data with anomalies score.
 
 ### 2. Create two Kinesis Firehose Streams – one for Raw Data Ingestion and second for the output from Kinesis Analytics App
 
